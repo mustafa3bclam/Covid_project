@@ -1,4 +1,5 @@
 # Covid-19 Classification App
+![covid](https://github.com/user-attachments/assets/1276414e-6c44-4f6f-9ff7-ffb218ea32af)
 
 This is a simple web application to detect Covid-19 from Chest X-ray images using a deep learning model.
 
